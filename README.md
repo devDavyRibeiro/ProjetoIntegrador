@@ -1,2 +1,2 @@
-# ProjetoIntegrador
-Projeto Integrador do 2° Semestre da Fatec Votorantim
+# ProjetoInterdisciplinar
+Projeto Interdisciplinar do 2° Semestre da Fatec Votorantim
